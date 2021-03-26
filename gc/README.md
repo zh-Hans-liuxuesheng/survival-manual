@@ -16,4 +16,9 @@
 3. 当绿卡排期到了后，可以进行身份调整
    - 若人在美国，提交I-485申请
    - 否则，走美国领事馆移民签证程序
-4. 获得绿卡
+4. 身份调整获批后，收到绿卡
+
+## 查看绿卡排期
+进入[官网](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)点开"Current Visa Bulletin"，找到"EMPLOYMENT-BASED PREFERENCES"下的表A和表B。
+- 若PD日期早于表A，说明你的绿卡批准结果出来了
+- 若PD日期早于表B，说明你的排期到了，可以申请身份调整，但绿卡批准结果还得看表A
