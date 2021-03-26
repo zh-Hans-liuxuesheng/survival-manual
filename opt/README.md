@@ -10,16 +10,15 @@
 
 # 申请材料
 下面列举一些常用到的材料：  
-- [ ] 申请费 （支票）  
-- [ ] G-1145表格  
-- [ ] I-765表格  
-- [ ] 护照照片
-- [ ] 护照复印件
-- [ ] F-1复印件
-- [ ] I-94
-- [ ] 以前收到过的EAD卡复印件
-- [ ] 成绩单
-- [ ] 以前的CPT复印件
-- [ ] I-20带有"OPT Recommendation"的复印件
-- [ ] ...
-
+:white_check_mark: 申请费 （支票）  
+:white_check_mark: G-1145表格  
+:white_check_mark: I-765表格  
+:white_check_mark: 护照照片  
+:white_check_mark: 护照复印件  
+:white_check_mark: F-1复印件  
+:white_check_mark: I-94  
+:white_check_mark: 以前收到过的EAD卡复印件  
+:white_check_mark: 成绩单  
+:white_check_mark: 以前的CPT复印件  
+:white_check_mark: I-20带有"OPT Recommendation"的复印件  
+:white_check_mark: ...
