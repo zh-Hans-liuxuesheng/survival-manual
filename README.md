@@ -14,7 +14,5 @@
 > 
 
 # survival-manual
-[![Gitter](https://badges.gitter.im/zh-Hans-liuxuesheng/survival-manual.svg)](https://gitter.im/zh-Hans-liuxuesheng/survival-manual?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
+[![Join the chat at https://gitter.im/zh-Hans-liuxuesheng/survival-manual](https://badges.gitter.im/zh-Hans-liuxuesheng/survival-manual.svg)](https://gitter.im/zh-Hans-liuxuesheng/survival-manual?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 这个项目是给**美国华人留学生**办理各种身份证件提供一些参考信息。
-
