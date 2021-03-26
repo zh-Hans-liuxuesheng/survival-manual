@@ -3,7 +3,7 @@
 
 雇佣关系下(Employment-based)的绿卡 | 描述
 ------------ | -------------
-第一类优先 EB-1 (First Preference)  | 发给杰出人才的绿卡，又分EB-1(a)、EB-1(b)、EB-1(c)
+第一类优先 [EB-1 (First Preference)](EB-1.md)  | 发给杰出人才的绿卡，又分EB-1(a)、EB-1(b)、EB-1(c)
 第二类优先 EB-2 (Second Preference) | 发给有高级学位或特殊技能的人
 第三类优先 EB-3 (Third Preference)  | 发给熟练技工或一些非技术工人
 第四类优先 EB-4 (Fourth Preference) | 发给一些特殊的人员，如宗教工作者
