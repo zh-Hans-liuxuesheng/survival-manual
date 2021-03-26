@@ -10,7 +10,7 @@
 第五类优先 EB-5 (Fifth Preference)  | 发给有钱在美国投资的人
 
 通常绿卡申请都有以下步骤：
-1. [PERM](https://www.uscis.gov/working-in-the-united-states/permanent-workers)劳工申请 (EB-1可跳过这一步)
+1. [PERM](https://www.uscis.gov/working-in-the-united-states/permanent-workers)劳工申请 (EB-1或EB-2的NIW可跳过这一步)
 2. I-140移民申请
    - 当I-140获批后，你会收到你的Priority Date (PD)，这个就是绿卡排期
 3. 当绿卡排期到了后，可以进行身份调整
