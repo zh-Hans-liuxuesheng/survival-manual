@@ -1,7 +1,8 @@
 # 简介
-[Optional Practical Training (OPT)](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students) 能允许你在美国从事和你专业相关的工作，时长12个月。如果你的专业又属于science/technology/engineering/math (STEM)，你又可以申请24个月的延期。
+[Optional Practical Training (OPT)](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students) 能允许你在美国从事和你专业相关的工作，时长12个月。如果你的专业又属于science/technology/engineering/math (STEM)，你又可以申请24个月的延期。这段时期里你的合法身份依然是F-1学生身份。
 
 # 申请OPT过程
+在学校正式毕业时间前90天，或者后60天内，可以在你找工作的同时联系学校要求申请OPT
 1. 参加学校的opt workshop讲解
 2. 向USCIS寄出你的材料
 3. 收到材料确认信件或短信
@@ -18,9 +19,9 @@
 - [x] F-1复印件  
 - [x] I-94  
 - [x] 成绩单  
-- [x] I-20带有"OPT Recommendation"的复印件  
+- [x] 新的I-20 (更新后30天内寄到USCIS)  
 - [x] 以前的CPT复印件  
-- [x] 以前收到过的EAD卡复印件  
+- [x] 以前收到过的EAD卡正反面复印件  
 - [x] ...
 
 # 申请OPT Extension过程
@@ -38,3 +39,13 @@
 - [x] 以前的CPT复印件  
 - [x] 以前收到过的EAD卡正反面复印件  
 - [x] ...
+
+# 常见问题（⚠️仅供参考）
+#### OPT一直在审批状态，能否留在美国境内
+- 可以留在境内继续等审批
+
+#### 失业了能否留在美国境内继续找工作
+- 在OPT开始后累计失业天数不可超过90天，而STEM OPT则不可超过150天，否则需要离开美国
+
+#### OPT Extension获批前能否工作
+- 在寄出材料后，在现有的EAD到期日起延期180天内都是可以工作
