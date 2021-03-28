@@ -2,7 +2,7 @@
 [Optional Practical Training (OPT)](https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students) 能允许你在美国从事和你专业相关的工作，时长12个月。如果你的专业又属于science/technology/engineering/math (STEM)，你又可以申请24个月的延期。这段时期里你的合法身份依然是F-1学生身份。
 
 # 申请OPT过程
-在学校正式毕业时间前90天内，可以在你找工作的同时联系学校要求申请OPT
+在学校正式毕业时间前90天内，联系学校要求申请OPT(不需要有Offer)
 1. 参加学校的opt workshop讲解
 2. 向USCIS寄出你的材料
 3. 收到材料确认信件或短信
@@ -47,11 +47,10 @@
 #### OPT Extension获批前能否工作
 - 在寄出材料后，在现有的EAD到期日起延期180天内都是可以工作
 
-#### 换工作是否要向USCIS更新
-- OPT Extension期间换工作，需要新公司出I-983表
+#### 换工作是否要公司sponsor
+- OPT期间换工作，凭Offer Letter向学校更新你的雇主信息
+- OPT Extension期间换工作，需要新公司出I-983表给学校
 
 #### 失业了能否留在美国境内继续找工作
 - 在OPT开始后 **累计** 失业天数不可超过90天，否则需要离开美国
 - 成功获批OPT Extension后，则不可超过150天
-
-
