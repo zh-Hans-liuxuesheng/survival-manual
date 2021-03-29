@@ -25,7 +25,7 @@
 - [x] ...
 
 # 申请OPT Extension过程
-在EAD卡过期前90天可以联系学校要求申请OPT Extension。
+在EAD卡过期前90天可以联系学校要求申请OPT Extension (需要有工资的Offer Letter)
 1. 同雇主一同填写并向学校提交I-983并更新I-20
 2. 向USCIS寄出你的材料
 3. 收到材料确认信件或短信
@@ -33,7 +33,7 @@
 5. 收到EAD卡
 
 下面列举一些常用到的材料：
-- [x] 工作证明 (Offer Letter)
+- [x] 工作证明 (Offer Letter)  
 - [x] 申请费 (支票/Money order)
 - [x] G-1145表格  
 - [x] I-765表格  
