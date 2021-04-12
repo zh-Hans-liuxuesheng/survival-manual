@@ -19,8 +19,14 @@ lease一辆车是指长期租用车(比如24个月)，在租期结束后需要�
 - Money Factor
    - 支付利息，通常是个很小的数如0.0025，用它乘以2400得到你的年利率APR (annual interest rate)
    - 信用记录好的人，这个数也会相应小一些
+- Monthly Payment
+   - 月供，当一切价格清算后，计算出来每月的还款，**注意税钱另算**
 - Residual Value
    - 合同结束后的对车的估价，和每年开的里程数有关，和对车的预估状况有关
 - Security Deposits
    - 押金，如果一些按合同进行，每年也没开超里程数，合同结束后会返还
+
+## 缴税
+- Down payment的税钱，会涉及state tax和local sales tax的计算
+- Montly payment和对应利息的税钱
 
