@@ -26,7 +26,10 @@ lease一辆车是指长期租用车(比如24个月)，在租期结束后需要�
 - Security Deposits
    - 押金，如果一些按合同进行，每年也没开超里程数，合同结束后会返还
 
+:bulb: 使用[leasehackr.com](https://leasehackr.com/)估算你的合同价格是否合理
+
 ## 缴税
 - Down payment的税钱，会涉及state tax和local sales tax的计算
 - Montly payment和对应利息的税钱
+
 
